@@ -36,7 +36,7 @@ print(f'Média: {media:.2f}')
 nome = 'Aline'
 print(nome)
 
-idade = int(input(f'idade: '))
+idade = int(input('idade: '))
 print(idade + 1)
 
 numero1 = 5
